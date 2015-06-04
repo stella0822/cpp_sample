@@ -1,0 +1,11 @@
+class A{
+	void a(int[] x) {}
+}
+
+class B extends b{
+	void a(int x){}
+}
+
+int b(){
+	return 1;
+}
